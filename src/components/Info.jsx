@@ -48,7 +48,7 @@ const Info = () => {
                             <li className='font-semibold w-full bg-[#1a0c58b0] p-2 rounded-xl' onMouseEnter={() => setHoveredItem('phone')} onMouseLeave={() => setHoveredItem(null)} >
                                 <a href="tel:+919650000000" className='flex md:gap-7 gap-3 items-center '>
                                     <img src={call} alt="call" className='w-5 h-5 md:w-8 md:h-8'/>
-                                    <span className='font-serif'>+91 9650000000</span>
+                                    <span className='font-serif'>+91 965000****</span>
                                 </a>
                                 {hoveredItem === 'phone' && (
                                     <div className='text-xs text-red-600 pl-10'><h5>Click the Phone No. to make a call</h5></div>
