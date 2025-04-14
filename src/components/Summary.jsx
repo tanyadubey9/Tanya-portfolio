@@ -8,7 +8,7 @@ function Summary() {
     <section className='min-h-full'>
       <div className='flex md:flex-row flex-col items-center justify-evenly py-20 gap-1'>
         <div className='ml-2 md:ml-0 border-t-4 border-b border-t-blue-900 border-slate-700 rounded-t-full size-60 md:size-96 flex items-end justify-center shadow-[0_0_5px_1px_rgba(99,199,232,0.5)]'>
-        <img src={file} alt="mine" className='w-40 md:w-64'/>
+        <img src={file} alt="mine" className='w-40 md:w-72'/>
         </div>
         <div className='md:text-4xl text-2xl p-2 text-center flex flex-col items-center'> 
           <h1 className='font-bold p-2'>TANYA DUBEY</h1>

@@ -27,33 +27,39 @@ const Project = () => {
             <ul className='flex flex-col gap-2 w-full bg-[#142548a4] p-1'>
               <li className='bg-[#0000008a] p-2 rounded-xl gap-2 flex justify-between items-center pr-1'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/To-do-List.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>4. To-do List Application</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>1. To-do List Application</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'> Tailwind CSS, React</h4>
               </li>
               <li className='bg-[#0000008a] p-2 rounded-xl gap-2 flex justify-between items-center pr-1'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/PassOp-project.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>5. Password Manager Application</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>2. Password Manager Application</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'> React, MongoDB, Express, Tailwind CSS</h4>
               </li>
               <li className='bg-[#0000008a] p-2 rounded-xl gap-2 flex justify-between items-center pr-1'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/Get-Me-A-Chai.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>6. 'Get Me A Chai' Application</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>3. 'Get Me A Chai' Application</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'> Next.js, Tailwind CSS </h4>
               </li>
               <li className='bg-[#0000008a] p-2 rounded-xl gap-2 flex justify-between items-center pr-1'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/User-Survey.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>7. User Survey Page</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>4. User Survey Page</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'> React, Tailwind CSS </h4>
               </li>
               <li className='bg-[#0000008a] p-2 rounded-xl gap-2 flex justify-between items-center pr-1'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/Date-Picker.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>8. Date-Picker Application</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>5. Date-Picker Application</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'> Tailwind CSS, Next.js</h4>
+              </li>
+              <li className='bg-[#0000008a] p-2 rounded-xl gap-2 flex justify-between items-center pr-1'>
+                <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/RecipeNest.git">
+                  <h4 className='text-sm md:text-lg font-semibold'>6. RecipeNest Application</h4>
+                </a>
+                <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'>Next.js, React, express, mongoDB</h4>
               </li>
             </ul>
 
@@ -63,19 +69,19 @@ const Project = () => {
               </li>
               <li className='bg-[#010118cb] p-1.5 gap-2 flex justify-between items-center'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/Netflix-landing-page-clone.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>1. Netflix Homepage</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>7. Netflix Homepage</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'>HTML, CSS </h4>
               </li>
               <li className='bg-[#010118cb] p-1.5 gap-2 flex justify-between items-center'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/X-Home.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>2. Twitter Homepage</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>8. Twitter Homepage</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'>Tailwind CSS</h4>
               </li>
               <li className='bg-[#010118cb] p-1.5 gap-2 flex justify-between items-center rounded-b-xl'>
                 <a className='w-[70%] hover:underline' href="https://github.com/tanyadubey9/Spotify-Project.git">
-                  <h4 className='text-sm md:text-lg font-semibold'>3. Spotify Clone</h4>
+                  <h4 className='text-sm md:text-lg font-semibold'>9. Spotify Clone</h4>
                 </a>
                 <h4 className='rounded-lg text-xs md:text-sm font-semibold w-[27%]'>JavaScript</h4>
               </li>
